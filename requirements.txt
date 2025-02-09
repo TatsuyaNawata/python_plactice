@@ -1,0 +1,12 @@
+pytest
+pytest-cov
+pandas
+sqlalchemy
+psycopg2-binary
+numpy
+pyarrow
+openpyxl
+pytest-sqlalchemy
+faker
+factory_boy
+sqlalchemy2-stubs
