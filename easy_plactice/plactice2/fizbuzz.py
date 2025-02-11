@@ -21,7 +21,7 @@ def reverse_list(lst: list) -> list:
     '''
     リストの要素を逆順に並べ替える関数の作成
     '''
-    sorted_list = lst.sort()
+    lst.sort()
 
 def find_max_min(d: dict) -> tuple:
     '''
